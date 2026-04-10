@@ -46,14 +46,55 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 308 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                31714 commits       ████████░░░░░░░░░░░░░░░░░   33.27 % 
+🌆 Daytime                5040 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+🌃 Evening                16373 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+🌙 Night                  42184 commits       ███████████░░░░░░░░░░░░░░   44.26 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   17733 commits       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Tuesday                  15850 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Wednesday                17101 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Thursday                 18970 commits       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Friday                   15353 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Saturday                 3076 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Sunday                   7228 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: America/Chicago
+
 💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
 No Activity Tracked This Week
 ```
 
 
+ Last Updated on 10/04/2026 18:15:08 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
