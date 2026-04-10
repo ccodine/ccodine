@@ -46,40 +46,14 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                31702 commits       ████████░░░░░░░░░░░░░░░░░   33.28 % 
-🌆 Daytime                5004 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-🌃 Evening                16371 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-🌙 Night                  42180 commits       ███████████░░░░░░░░░░░░░░   44.28 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   17710 commits       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Tuesday                  15846 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Wednesday                17100 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Thursday                 18962 commits       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Friday                   15346 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Saturday                 3076 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Sunday                   7217 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Chicago
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/04/2026 03:16:31 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
