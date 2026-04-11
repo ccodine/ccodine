@@ -46,13 +46,13 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 308 Contributions in the Year 2026
+> 🏆 309 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -87,14 +87,14 @@ Sunday                   7228 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/04/2026 19:02:47 UTC
+ Last Updated on 11/04/2026 18:58:48 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
