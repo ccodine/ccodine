@@ -11,11 +11,41 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 
 **tech i work with:**
 
-<p><a href="#"><img src="https://svgl.app/library/react_dark.svg" alt="React" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/nextjs_icon_dark.svg" alt="Next.js" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/typescript.svg" alt="TypeScript" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/javascript.svg" alt="JavaScript" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/html5.svg" alt="HTML5" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/css.svg" alt="CSS" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/tailwindcss.svg" alt="Tailwind CSS" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/nodejs.svg" alt="Node.js" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/python.svg" alt="Python" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/graphql.svg" alt="GraphQL" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/sanity-dark.svg" alt="Sanity" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/shopify.svg" alt="Shopify" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/stripe.svg" alt="Stripe" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/resend-icon-white.svg" alt="Resend" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/aws_dark.svg" alt="AWS" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/docker.svg" alt="Docker" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/vercel_dark.svg" alt="Vercel" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/supabase.svg" alt="Supabase" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/postgresql.svg" alt="PostgreSQL" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/mongodb-icon-dark.svg" alt="MongoDB" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/linux.svg" alt="Linux" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/posthog.svg" alt="PostHog" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/figma.svg" alt="Figma" width="28" height="28" /></a></p>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://svgl.app/library/react_dark.svg" alt="React" width="28" height="28" />
+  <img src="https://svgl.app/library/nextjs_icon_dark.svg" alt="Next.js" width="28" height="28" />
+  <img src="https://svgl.app/library/typescript.svg" alt="TypeScript" width="28" height="28" />
+  <img src="https://svgl.app/library/javascript.svg" alt="JavaScript" width="28" height="28" />
+  <img src="https://svgl.app/library/html5.svg" alt="HTML5" width="28" height="28" />
+  <img src="https://svgl.app/library/css.svg" alt="CSS" width="28" height="28" />
+  <img src="https://svgl.app/library/tailwindcss.svg" alt="Tailwind CSS" width="28" height="28" />
+  <img src="https://svgl.app/library/nodejs.svg" alt="Node.js" width="28" height="28" />
+  <img src="https://svgl.app/library/python.svg" alt="Python" width="28" height="28" />
+  <img src="https://svgl.app/library/graphql.svg" alt="GraphQL" width="28" height="28" />
+  <img src="https://svgl.app/library/sanity-dark.svg" alt="Sanity" width="28" height="28" />
+  <img src="https://svgl.app/library/shopify.svg" alt="Shopify" width="28" height="28" />
+  <img src="https://svgl.app/library/stripe.svg" alt="Stripe" width="28" height="28" />
+  <img src="https://svgl.app/library/resend-icon-white.svg" alt="Resend" width="28" height="28" />
+  <img src="https://svgl.app/library/aws_dark.svg" alt="AWS" width="28" height="28" />
+  <img src="https://svgl.app/library/docker.svg" alt="Docker" width="28" height="28" />
+  <img src="https://svgl.app/library/vercel_dark.svg" alt="Vercel" width="28" height="28" />
+  <img src="https://svgl.app/library/supabase.svg" alt="Supabase" width="28" height="28" />
+  <img src="https://svgl.app/library/postgresql.svg" alt="PostgreSQL" width="28" height="28" />
+  <img src="https://svgl.app/library/mongodb-icon-dark.svg" alt="MongoDB" width="28" height="28" />
+  <img src="https://svgl.app/library/linux.svg" alt="Linux" width="28" height="28" />
+  <img src="https://svgl.app/library/posthog.svg" alt="PostHog" width="28" height="28" />
+  <img src="https://svgl.app/library/figma.svg" alt="Figma" width="28" height="28" />
+</div>
 
 **currently learning:**
 
-<p><a href="#"><img src="https://svgl.app/library/react_dark.svg" alt="React Native" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/openclaw.svg" alt="OpenClaw" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/openai_dark.svg" alt="OpenAI" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/claude-ai-icon.svg" alt="Claude AI" width="28" height="28" /></a>&nbsp;<a href="#"><img src="https://svgl.app/library/azure.svg" alt="Azure" width="28" height="28" /></a></p>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://svgl.app/library/react_dark.svg" alt="React Native" width="28" height="28" />
+  <img src="https://svgl.app/library/openclaw.svg" alt="OpenClaw" width="28" height="28" />
+  <img src="https://svgl.app/library/openai_dark.svg" alt="OpenAI" width="28" height="28" />
+  <img src="https://svgl.app/library/claude-ai-icon.svg" alt="Claude AI" width="28" height="28" />
+  <img src="https://svgl.app/library/azure.svg" alt="Azure" width="28" height="28" />
+</div>
 
 **this week i spent my time on:**
 
