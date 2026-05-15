@@ -34,45 +34,8 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
  > 
 > 🔑 0 Private Repository 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                31908 commits       ████████░░░░░░░░░░░░░░░░░   33.20 % 
-🌆 Daytime                5292 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-🌃 Evening                16574 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-🌙 Night                  42323 commits       ███████████░░░░░░░░░░░░░░   44.04 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   17854 commits       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Tuesday                  15980 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Wednesday                17281 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Thursday                 19178 commits       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Friday                   15480 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Saturday                 3082 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Sunday                   7242 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-TypeScript               24 hrs 43 mins      ██████████████████░░░░░░░   70.23 % 
-Markdown                 3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Other                    3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-JavaScript               1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-CSS                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-💻 Operating System: 
-Mac                      35 hrs 11 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 19:37:12 UTC
+ Last Updated on 15/05/2026 19:27:43 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
