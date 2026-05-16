@@ -26,7 +26,7 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 491 Contributions in the Year 2026
+> 🏆 504 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -34,8 +34,45 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
  > 
 > 🔑 0 Private Repository 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 19:27:43 UTC
+```text
+🌞 Morning                31916 commits       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+🌆 Daytime                5356 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+🌃 Evening                16642 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+🌙 Night                  42382 commits       ███████████░░░░░░░░░░░░░░   44.01 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   17876 commits       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Tuesday                  16004 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Wednesday                17306 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Thursday                 19233 commits       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Friday                   15529 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Saturday                 3106 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Sunday                   7242 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+YAML                     41 mins             ██████████░░░░░░░░░░░░░░░   39.69 % 
+TypeScript               24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+💻 Operating System: 
+Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 19:02:06 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
