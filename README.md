@@ -34,38 +34,8 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
  > 
 > 🔑 0 Private Repository 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                32220 commits       ████████░░░░░░░░░░░░░░░░░   32.96 % 
-🌆 Daytime                5860 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-🌃 Evening                17020 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-🌙 Night                  42660 commits       ███████████░░░░░░░░░░░░░░   43.64 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   18075 commits       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Tuesday                  16242 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Wednesday                17621 commits       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Thursday                 19570 commits       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Friday                   15787 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Saturday                 3163 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Sunday                   7302 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💻 Operating System: 
-Mac                      12 hrs 28 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 27/05/2026 19:44:36 UTC
+ Last Updated on 28/05/2026 19:51:15 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
