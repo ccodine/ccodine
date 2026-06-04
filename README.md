@@ -26,7 +26,7 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 663 Contributions in the Year 2026
+> 🏆 669 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -34,8 +34,38 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
  > 
 > 🔑 0 Private Repository 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 03/06/2026 20:01:19 UTC
+```text
+🌞 Morning                32365 commits       ████████░░░░░░░░░░░░░░░░░   32.89 % 
+🌆 Daytime                6102 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+🌃 Evening                17200 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+🌙 Night                  42745 commits       ███████████░░░░░░░░░░░░░░   43.43 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   18176 commits       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Tuesday                  16376 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Wednesday                17794 commits       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Thursday                 19710 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Friday                   15866 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Saturday                 3180 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Sunday                   7310 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💻 Operating System: 
+Mac                      21 hrs 38 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/06/2026 19:33:52 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
