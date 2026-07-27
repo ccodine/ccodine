@@ -20,6 +20,8 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-291%20hrs%2056%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -61,11 +63,34 @@ Sunday                   7360 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💻 Operating System: 
-Mac                      13 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 5 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 18 mins (94.0%)
+
+✍️ 8,640 lines written by AI, 25 lines written by hand (99.71% AI-written)
+
+🔤 307,254,908 Input Tokens, 1,167,204 Output Tokens
+
+💵 $1097.24 Estimated AI Cost This Week
+
+🧠 17 AI Sessions, 192 AI Prompts
+
+Composer                 5,283 lines         █████████████░░░░░░░░░░░░   53.11 % 
+Opus                     4,665 lines         ████████████░░░░░░░░░░░░░   46.89 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.71% of written lines came from AI
+📚 Verbose Prompter — average 3,190 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.39% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/07/2026 19:57:34 UTC
+ Last Updated on 27/07/2026 20:32:21 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
