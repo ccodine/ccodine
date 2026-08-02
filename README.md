@@ -20,7 +20,7 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -63,34 +63,34 @@ Sunday                   7394 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💻 Operating System: 
-Mac                      19 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 9 mins (97.69%)
+⏱ AI Coding Time: 21 hrs 14 mins (97.59%)
 
-✍️ 41,345 lines written by AI, 36 lines written by hand (99.91% AI-written)
+✍️ 44,358 lines written by AI, 37 lines written by hand (99.92% AI-written)
 
-🔤 1,365,716,294 Input Tokens, 2,609,147 Output Tokens
+🔤 1,468,492,790 Input Tokens, 2,905,409 Output Tokens
 
-💵 $6888.27 Estimated AI Cost This Week
+💵 $7408.33 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 241 AI Prompts
+🧠 22 AI Sessions, 256 AI Prompts
 
-Opus                     44,358 lines        █████████████████████████   100.00 % 
+Opus                     47,416 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📄 Detailed Prompter — average 506 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📝 Concise Prompter — average 361 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 20:01:14 UTC
+ Last Updated on 02/08/2026 20:06:45 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
