@@ -20,7 +20,7 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,7 +28,7 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 999 Contributions in the Year 2026
+> 🏆 1,004 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,7 +40,7 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 
 ```text
 🌞 Morning                33257 commits       ████████░░░░░░░░░░░░░░░░░   32.30 % 
-🌆 Daytime                8044 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+🌆 Daytime                8049 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 🌃 Evening                18317 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
 🌙 Night                  43355 commits       ███████████░░░░░░░░░░░░░░   42.10 % 
 ```
@@ -53,7 +53,7 @@ Wednesday                18799 commits       █████░░░░░░�
 Thursday                 20612 commits       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
 Friday                   16496 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
 Saturday                 3484 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Sunday                   7426 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Sunday                   7431 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 ```
 
 
@@ -63,34 +63,34 @@ Sunday                   7426 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💻 Operating System: 
-Mac                      25 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 17 mins (99.45%)
+⏱ AI Coding Time: 22 hrs 13 mins (99.51%)
 
-✍️ 23,137 lines written by AI, 31 lines written by hand (99.87% AI-written)
+✍️ 16,547 lines written by AI, 31 lines written by hand (99.81% AI-written)
 
-🔤 1,533,569,828 Input Tokens, 2,943,869 Output Tokens
+🔤 1,298,026,017 Input Tokens, 1,929,466 Output Tokens
 
-💵 $7734.28 Estimated AI Cost This Week
+💵 $6593.64 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 275 AI Prompts
+🧠 19 AI Sessions, 257 AI Prompts
 
-Opus                     23,581 lines        █████████████████████████   100.00 % 
+Opus                     17,221 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📝 Concise Prompter — average 243 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🤖 AI-Driven — 99.81% of written lines came from AI
+📝 Concise Prompter — average 254 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.18% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 19:35:18 UTC
+ Last Updated on 10/08/2026 19:55:03 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
