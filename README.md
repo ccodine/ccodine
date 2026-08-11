@@ -20,7 +20,7 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-340%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,7 +28,7 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,004 Contributions in the Year 2026
+> 🏆 1,013 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,21 +39,21 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                33257 commits       ████████░░░░░░░░░░░░░░░░░   32.30 % 
-🌆 Daytime                8049 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-🌃 Evening                18317 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-🌙 Night                  43355 commits       ███████████░░░░░░░░░░░░░░   42.10 % 
+🌞 Morning                33262 commits       ████████░░░░░░░░░░░░░░░░░   32.34 % 
+🌆 Daytime                7981 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+🌃 Evening                18302 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+🌙 Night                  43307 commits       ███████████░░░░░░░░░░░░░░   42.11 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   19063 commits       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Tuesday                  17093 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Wednesday                18799 commits       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Thursday                 20612 commits       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Friday                   16496 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Saturday                 3484 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Sunday                   7431 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Monday                   19062 commits       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Tuesday                  17080 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Wednesday                18796 commits       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Thursday                 20611 commits       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Friday                   16496 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Saturday                 3478 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Sunday                   7329 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 ```
 
 
@@ -63,34 +63,35 @@ Sunday                   7431 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💻 Operating System: 
-Mac                      22 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 13 mins (99.51%)
+⏱ AI Coding Time: 20 hrs 15 mins (99.59%)
 
-✍️ 16,547 lines written by AI, 31 lines written by hand (99.81% AI-written)
+✍️ 20,270 lines written by AI, 3 lines written by hand (99.99% AI-written)
 
-🔤 1,298,026,017 Input Tokens, 1,929,466 Output Tokens
+🔤 1,101,975,055 Input Tokens, 2,499,134 Output Tokens
 
-💵 $6593.64 Estimated AI Cost This Week
+💵 $6021.86 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 257 AI Prompts
+🧠 21 AI Sessions, 243 AI Prompts
 
-Opus                     17,221 lines        █████████████████████████   100.00 % 
+Opus                     21,010 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📝 Concise Prompter — average 254 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📝 Concise Prompter — average 338 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 19:55:03 UTC
+ Last Updated on 11/08/2026 20:04:40 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
