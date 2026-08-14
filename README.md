@@ -20,7 +20,7 @@ full-stack web developer at **DMR Technologies**; previously built e-commerce pl
 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -63,35 +63,35 @@ Sunday                   7329 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💻 Operating System: 
-Mac                      13 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 16 mins (99.88%)
+⏱ AI Coding Time: 13 hrs 14 mins (99.86%)
 
-✍️ 12,217 lines written by AI, 3 lines written by hand (99.98% AI-written)
+✍️ 11,850 lines written by AI, 8 lines written by hand (99.93% AI-written)
 
-🔤 406,931,137 Input Tokens, 1,785,141 Output Tokens
+🔤 14,324,872 Input Tokens, 1,522,624 Output Tokens
 
-💵 $2803.30 Estimated AI Cost This Week
+💵 $472.19 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 156 AI Prompts
+🧠 15 AI Sessions, 126 AI Prompts
 
-Opus                     12,923 lines        █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     12,047 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 417 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📄 Detailed Prompter — average 1,225 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 20:03:02 UTC
+ Last Updated on 14/08/2026 19:56:34 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
