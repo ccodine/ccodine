@@ -63,35 +63,35 @@ Sunday                   7329 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💻 Operating System: 
-Mac                      12 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 24 mins (99.85%)
+⏱ AI Coding Time: 10 hrs 26 mins (99.85%)
 
-✍️ 11,544 lines written by AI, 8 lines written by hand (99.93% AI-written)
+✍️ 10,843 lines written by AI, 8 lines written by hand (99.93% AI-written)
 
-🔤 13,060,806 Input Tokens, 1,447,361 Output Tokens
+🔤 12,724,064 Input Tokens, 1,330,715 Output Tokens
 
-💵 $450.52 Estimated AI Cost This Week
+💵 $419.73 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 116 AI Prompts
+🧠 10 AI Sessions, 103 AI Prompts
 
-Opus                     11,741 lines        █████████████████████████   100.00 % 
+Opus                     10,938 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 1,321 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📄 Detailed Prompter — average 1,474 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/08/2026 19:11:22 UTC
+ Last Updated on 17/08/2026 19:34:31 UTC
 <!--END_SECTION:waka-->
 
 **github stats:**
